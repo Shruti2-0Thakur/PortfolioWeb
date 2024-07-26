@@ -11,7 +11,7 @@ export const projectsData = [
     "Streamline hiring with our HR platform: unlimited job postings, 95% candidate accuracy, automated scheduling.",
     tags: [".Net, c#", "HTML & CSS", "API", "SQL"],
     code: "https://github.com/Shruti2-0Thakur/HR",
-    demo: "",
+    demo: "https://tourmaline-waterfall-2d6.notion.site/Hiring-Management-System-f9fa0a393d9f4966a1f991049ad7881c",
     image: hiring,
   },
   {
@@ -31,7 +31,7 @@ export const projectsData = [
     "Boost efficiency with our user-friendly MP4 to MP3 converter. Upload MP4s or YouTube links, enjoy faster downloads, and increase user engagement.",
     tags: ["HTML", "CSS", "Javascript", "Node.js"],
     code: "https://github.com/Shruti2-0Thakur/VTA",
-    demo: "",
+    demo: "https://tourmaline-waterfall-2d6.notion.site/VTA-6c8bd4b6de0943e89ff828df36315805",
     image: audio,
   },
   {

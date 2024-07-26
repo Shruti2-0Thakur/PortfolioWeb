@@ -194,7 +194,7 @@ function Landing() {
                 typingDelay={500}
               />
             </h6>
-            <h1>{headerData.name}</h1>
+            <h1>{headerData.naming}</h1>
             <p>{headerData.desciption}</p>
 
             <div className="lcr-buttonContainer">
